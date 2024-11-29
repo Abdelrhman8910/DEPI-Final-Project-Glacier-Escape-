@@ -1,7 +1,6 @@
 # Glacier Escape - Digital Art Project
 
 [![Behance Project](https://img.shields.io/badge/View_on-Behance-blue)](https://www.behance.net/gallery/210895103/Glacier-Escape-(Villa-Design)-interior-Exterior)  
-🔗 **Google Drive Source Files**: [Access Source Files](ADD-LINK-HERE)
 
 ---
 
